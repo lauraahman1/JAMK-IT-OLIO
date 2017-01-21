@@ -10,23 +10,22 @@ namespace Tehtava3
     {
         static void Main(string[] args)
         {
-            int numero = 3;
+            int numbers = 3;
             double sum = 0;
-            for (int i = 1; i <= numero; i++)
+            for (int i = 1; i <= numbers; i++)
             {
-                Console.Write("Anna numero: ");
+                Console.Write("Anna luku: ");
                 string line = Console.ReadLine();
-                int numero;
-                bool result = Int32.TryParse(line, out numero);
+                int number;
+                bool result = Int32.TryParse(line, out number);
                 if (result)
                 {
-                    sum += numero;
+                    sum += number;
                 }
                
-                }
             }
-            Console.WriteLine("Sum = " + sum);
-            Console.WriteLine("Average = {0:F2}", (sum / numbers));
+            Console.WriteLine("Summa = " + sum);
+            Console.WriteLine("Keskiarvo = {0:F2}", (sum / numbers));
             Console.ReadLine();
         }
     }
