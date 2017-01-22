@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: Tehtava13, Configuration: Debug Any CPU ------
+1>  Tehtava13 -> C:\Users\laura\Source\Repos\JAMK-IT-OLIO\BlackJackV0\Viikkotehtavat\JAMK-IT-OLIO\Viikkotehtavat 5-20\Tehtava13\bin\Debug\Tehtava13.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
