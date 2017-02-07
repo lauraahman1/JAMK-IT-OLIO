@@ -21,7 +21,7 @@ namespace JAMK.IT
         public Vehicle()
         {
             Tyres = new Tyre[maxTyres];
-            
+           
         }
 
         //methods
