@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Viikkotehtavat_2-4", "Viikkotehtavat_2-4\Viikkotehtavat_2-4.csproj", "{09CFF551-F2BD-40F1-9635-CDE326E6BC43}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tehtava 3", "Tehtava 3\Tehtava 3.csproj", "{640803DD-5990-4E31-96CC-F385A5611285}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{09CFF551-F2BD-40F1-9635-CDE326E6BC43}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09CFF551-F2BD-40F1-9635-CDE326E6BC43}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09CFF551-F2BD-40F1-9635-CDE326E6BC43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{640803DD-5990-4E31-96CC-F385A5611285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{640803DD-5990-4E31-96CC-F385A5611285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{640803DD-5990-4E31-96CC-F385A5611285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{640803DD-5990-4E31-96CC-F385A5611285}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
