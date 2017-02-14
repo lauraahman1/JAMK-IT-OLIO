@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: Labra_6, Configuration: Debug Any CPU ------
+1>  Labra_6 -> D:\L1468\JAMK-IT-OLIO\Labra_6\Labra_6\bin\Debug\Labra_6.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
