@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Viikkotehtavat_2-4", "Viikkotehtavat_2-4\Viikkotehtavat_2-4.csproj", "{09CFF551-F2BD-40F1-9635-CDE326E6BC43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tehtava 3", "Tehtava 3\Tehtava 3.csproj", "{640803DD-5990-4E31-96CC-F385A5611285}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tehtava 3_oikea", "Tehtava 3_oikea\Tehtava 3_oikea.csproj", "{7D0A11CC-F086-4E72-94CA-3783C66625E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09CFF551-F2BD-40F1-9635-CDE326E6BC43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09CFF551-F2BD-40F1-9635-CDE326E6BC43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09CFF551-F2BD-40F1-9635-CDE326E6BC43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09CFF551-F2BD-40F1-9635-CDE326E6BC43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{640803DD-5990-4E31-96CC-F385A5611285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{640803DD-5990-4E31-96CC-F385A5611285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{640803DD-5990-4E31-96CC-F385A5611285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{640803DD-5990-4E31-96CC-F385A5611285}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D0A11CC-F086-4E72-94CA-3783C66625E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D0A11CC-F086-4E72-94CA-3783C66625E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D0A11CC-F086-4E72-94CA-3783C66625E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D0A11CC-F086-4E72-94CA-3783C66625E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
